@@ -1,36 +1,52 @@
 # 🚀 Prompt Engineering Internship Portfolio
 
-Welcome to my Prompt Engineering Internship portfolio!
+Welcome to my **Prompt Engineering Internship Portfolio**!
 
-This repository documents the practical tasks completed during my internship at **SkillCraft Technology**, showcasing the application of Prompt Engineering techniques to improve AI-generated outputs, automate workflows, and build intelligent AI interactions using Large Language Models (LLMs).
+This repository showcases the projects and documentation completed during my **Prompt Engineering Internship at SkillCraft Technology**. Throughout this internship, I explored practical applications of Prompt Engineering, Generative AI, and Large Language Models (LLMs) by designing, testing, and refining prompts for real-world use cases.
 
 ---
 
-## 📌 About the Internship
+## 📌 About
 
-During this internship, I explored how carefully designed prompts can significantly improve the quality, creativity, and reliability of AI-generated responses.
+Prompt Engineering is the process of designing effective prompts that enable AI models to generate accurate, structured, and context-aware responses.
 
-The internship covered:
+During this internship, I worked on projects covering:
 
 - ✨ Prompt Refinement
-- 🎭 Role Prompting
-- 🧠 Context Engineering
-- 📝 Structured Prompting
-- 🎯 Few-Shot Prompting
-- ⚙️ Task Automation
-- 🤖 AI Assistant Design
+- 🎨 Creative Prompting
+- ⚙️ AI Task Automation
+- 🤖 Conversational AI Assistant Design
+
+Each task demonstrates how prompt engineering techniques can improve the quality, consistency, and usability of AI-generated outputs.
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```
-Prompt-Engineering-Internship
+Prompt-Engineering-Internship/
 │
-├── Task-01-Writing-Better-Prompts
-├── Task-02-Prompting-for-Creativity
-├── Task-03-Prompting-for-Task-Automation
-└── Task-04-Simulating-an-Assistant
+├── README.md
+│
+├── Task-01-Writing-Better-Prompts/
+│   ├── README.md
+│   ├── Task-01-Writing-Better-Prompts.pdf
+│   └── screenshots/
+│
+├── Task-02-Prompting-for-Creativity/
+│   ├── README.md
+│   ├── Task-02-Prompting-for-Creativity.pdf
+│   └── screenshots/
+│
+├── Task-03-Prompting-for-Task-Automation/
+│   ├── README.md
+│   ├── Task-03-Prompting-for-Task-Automation.pdf
+│   └── screenshots/
+│
+└── Task-04-Simulating-an-Assistant/
+    ├── README.md
+    ├── Task-04-Simulating-an-Assistant.pdf
+    └── screenshots/
 ```
 
 ---
@@ -42,7 +58,7 @@ Prompt-Engineering-Internship
 | ✅ Task 01 – Writing Better Prompts | Completed |
 | ✅ Task 02 – Prompting for Creativity | Completed |
 | ✅ Task 03 – Prompting for Task Automation | Completed |
-| ⏳ Task 04 – Simulating an Assistant | In Progress |
+| ✅ Task 04 – Simulating an Assistant | Completed |
 
 ---
 
@@ -51,41 +67,37 @@ Prompt-Engineering-Internship
 ## 📝 Task 01 – Writing Better Prompts
 
 ### Objective
+Learn how prompt clarity, specificity, and context influence AI-generated responses.
 
-Improve vague prompts into clear, specific, and structured prompts while analyzing how prompt refinement impacts AI-generated responses.
+### Work Completed
+- Refined vague prompts into structured prompts
+- Compared outputs before and after refinement
+- Analyzed improvements in response quality
+- Documented prompt engineering observations
 
-### Highlights
-
-- Compared vague vs. refined prompts
-- Analyzed response quality improvements
-- Applied context engineering
-- Documented observations and comparisons
-
-### Skills Demonstrated
-
+### Skills
 - Prompt Refinement
 - Context Engineering
 - Structured Prompt Design
-- Comparative Analysis
+- Response Analysis
 
 ---
 
 ## 🎨 Task 02 – Prompting for Creativity
 
 ### Objective
+Explore how prompt structure, examples, and role prompting influence creative AI outputs.
 
-Explore how prompt structure, role assignment, and few-shot prompting influence creative AI outputs.
+### Work Completed
+- Designed progressively refined prompts
+- Generated innovative hackathon themes
+- Compared multiple prompt variations
+- Evaluated creativity and response quality
 
-### Project
-
-Designed innovative hackathon themes by progressively refining prompts from basic to advanced role-based prompting.
-
-### Skills Demonstrated
-
+### Skills
+- Creative Prompting
 - Role Prompting
-- Few-Shot Prompting
-- Creative Prompt Design
-- Output Structuring
+- Few-shot Prompting
 - Prompt Iteration
 
 ---
@@ -93,37 +105,40 @@ Designed innovative hackathon themes by progressively refining prompts from basi
 ## ⚙️ Task 03 – Prompting for Task Automation
 
 ### Objective
+Develop a reusable prompt to automate the transformation of meeting notes into professional project documentation.
 
-Design a reusable prompt capable of automatically converting raw meeting notes into professional project documentation.
+### Work Completed
+- Designed an AI Project Management Assistant prompt
+- Automated meeting summaries and action items
+- Structured reports into business-friendly formats
+- Evaluated prompt performance using **Google Gemini**
 
-### Project
-
-Built an AI Project Management Assistant that transforms unstructured meeting notes into:
-
-- Professional Meeting Summary
-- Key Decisions
-- Action Items Table
-- Risks & Blockers
-- Next Meeting Agenda
-
-### Model Used
-
-- Google Gemini
-
-### Skills Demonstrated
-
+### Skills
 - Task Automation
-- Business Documentation
 - Structured Prompting
-- Role Prompting
+- Business Documentation
 - Output Constraints
-- Context Engineering
+- Cross-Model Prompt Engineering
 
 ---
 
-## 🤖 Task 04 – Simulating an Assistant *(Coming Soon)*
+## 🤖 Task 04 – Simulating an Assistant
 
-This task focuses on designing a persona-driven conversational AI assistant capable of maintaining context across multiple interactions while providing consistent and helpful responses.
+### Objective
+Build a persona-driven AI assistant capable of maintaining context across multiple interactions.
+
+### Work Completed
+- Designed a conversational AI assistant
+- Simulated multi-turn interactions
+- Applied prompt chaining techniques
+- Improved response consistency through iterative prompt refinement
+
+### Skills
+- Persona Prompting
+- Context Retention
+- Prompt Chaining
+- Conversational AI
+- Multi-turn Dialogue Design
 
 ---
 
@@ -133,57 +148,65 @@ This task focuses on designing a persona-driven conversational AI assistant capa
 - Role Prompting
 - Context Engineering
 - Structured Prompting
-- Few-Shot Prompting
+- Few-shot Prompting
 - Constraint-Based Prompting
+- Prompt Chaining
+- Persona Prompting
 - Output Formatting
 - Task Automation
-- Persona-Based Prompting
 
 ---
 
 # 💻 AI Models & Tools Used
 
-### Large Language Models
-
+### AI Models
 - ChatGPT
 - Google Gemini
 
 ### Tools
-
 - GitHub
 - Microsoft Word
 - PDF Documentation
 
 ---
 
-# 🎯 Learning Outcomes
+# 🎯 Key Learning Outcomes
 
-Through this internship, I gained practical experience in:
+Throughout this internship, I gained practical experience in:
 
-- Writing effective prompts for Large Language Models (LLMs)
-- Improving AI response quality through iterative prompt refinement
-- Designing structured prompts for consistent outputs
-- Automating repetitive documentation tasks
-- Generating creative AI-assisted content
-- Evaluating prompt behavior across multiple AI models
-- Documenting AI workflows professionally using GitHub
+- Designing effective prompts for Large Language Models (LLMs)
+- Improving AI responses using prompt refinement
+- Generating creative content through structured prompting
+- Automating repetitive workflows using AI
+- Building conversational AI assistants
+- Comparing prompt behavior across multiple AI models
+- Creating reusable prompt templates
+- Organizing technical documentation using GitHub
 
 ---
 
-# 📌 Repository Purpose
+# 📚 Repository Purpose
 
-This repository serves as a portfolio documenting my learning journey in Prompt Engineering and Generative AI through practical, real-world tasks completed during my internship.
+This repository serves as a portfolio of my Prompt Engineering Internship work and demonstrates my understanding of practical prompt engineering techniques through structured documentation, prompt comparisons, workflow automation, and conversational AI design.
 
 Each task includes:
 
 - 📄 Detailed Report
-- 📝 Prompt Documentation
+- 🧠 Prompt Documentation
 - 📊 Output Analysis
 - 📸 Supporting Screenshots
 - 💡 Key Learnings
 
 ---
 
-⭐ **This repository will continue to be updated as I complete the final internship task and further explore advanced Prompt Engineering techniques.**
+# 🌟 Acknowledgements
 
-If you have any suggestions or feedback, feel free to connect or contribute!
+I would like to thank **SkillCraft Technology** for providing this internship opportunity and enabling me to explore practical applications of Prompt Engineering and Generative AI.
+
+---
+
+## 📬 Connect With Me
+
+If you have suggestions, feedback, or would like to connect, feel free to reach out through my GitHub or LinkedIn profile.
+
+⭐ **If you found this repository useful, consider giving it a star!**
